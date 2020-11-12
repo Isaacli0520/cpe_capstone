@@ -1,0 +1,1 @@
+"./FSM.o" "./LED.o" "./debounce.o" "./main.o" "./rotaryencoder.o" "./timerA.o" -T"../msp430g2553.ld" -Wl,--start-group -lgcc -lc -Wl,--end-group 
